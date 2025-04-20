@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **write2nupu@gmail.com**
 
-- ⚡ Fun fact **I think I talk too much**
+- ⚡ Fun fact **Coding can be made easier with the right steps**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=write2nupu&show_icons=true&locale=en&layout=compact" alt="write2nupu" /></p>
 
